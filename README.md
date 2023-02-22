@@ -1,1 +1,3 @@
 # sql_challenge
+
+This project consists of examining archived employee data from a company in the 1980s and 90s. The database has been stored as a series of comma-delimited files, with no one file having complete data for security purposes. Before analyzing the data, an ERD was developed to determine the relationships existent within the databases disparate files. Once the relations were understood, SQL was used to import the files into tables and then queried for a variety of needs, ranging from salaries to department employee lists. These queries provided extremely valuable insight into the Pewlett-Hackard company.
